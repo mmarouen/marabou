@@ -14,7 +14,7 @@ INSTALL_REQUIREMENTS = [
     'pylint',
     'doxypypy',
     'pycodestyle',
-    'nltk==3.5',
+    'nltk==3.6.6',
     'keras==2.3.1',
     'tensorflow==2.2.0',
     'opencv-python'
