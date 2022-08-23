@@ -4,7 +4,7 @@ from setuptools.command.install import install
 
 
 INSTALL_REQUIREMENTS = [
-    'numpy==1.19.0rc2',
+    'numpy==1.22.0',
     'pandas==1.0.4',
     'pytest',
     'scikit-learn==0.23.1',
